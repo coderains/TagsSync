@@ -74,13 +74,19 @@
     },
     "https://linux.do/t/topic/975157": {
       "tags": [
-        "人工智能"
+        "人工智能",
+        "._DELETED_"
       ],
+      "deletedMeta": {
+        "deleted": 1758881718795,
+        "actionType": "DELETE"
+      },
       "meta": {
         "title": "这codex是什么垃圾",
         "type": "post",
         "updated": 1758536958637,
-        "updated3": 1758536968520,
+        "updated2": 1758881718795,
+        "updated3": 1758881784085,
         "created": 1758536958637
       }
     },
@@ -2519,19 +2525,19 @@
       "browser": "Chrome 140.0",
       "os": "Windows",
       "deviceType": "desktop",
-      "uploadTimestamp": 1758881600345,
+      "uploadTimestamp": 1758881784087,
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "https://utags.link",
-      "lastDataChangeTimestamp": 1758708855924,
-      "currentSyncTimestamp": 1758881600342
+      "lastDataChangeTimestamp": 1758881600342,
+      "currentSyncTimestamp": 1758881784085
     },
     "stats": {
       "bookmarksCount": 197,
       "tagsCount": 11,
-      "totalTagsCount": 232,
+      "totalTagsCount": 233,
       "domainsCount": 1
     },
-    "updated": 1758881600345,
+    "updated": 1758881784087,
     "created": 1758525915243
   }
 }
