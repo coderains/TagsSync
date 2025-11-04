@@ -68,12 +68,18 @@
     },
     "https://www.deepflood.com/": {
       "tags": [
-        "收藏"
+        "收藏",
+        "._DELETED_"
       ],
+      "deletedMeta": {
+        "deleted": 1762239232780,
+        "actionType": "BATCH_DELETE_BOOKMARKS"
+      },
       "meta": {
         "title": "www.deepflood.com",
         "updated": 1762226787468,
-        "updated3": 1762226942931,
+        "updated2": 1762239232781,
+        "updated3": 1762240113552,
         "created": 1762226787468
       }
     },
@@ -3271,19 +3277,19 @@
       "browser": "Edge 141.0",
       "os": "Windows",
       "deviceType": "desktop",
-      "uploadTimestamp": 1762227690405,
+      "uploadTimestamp": 1762240113554,
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0",
       "origin": "https://utags.link",
-      "lastDataChangeTimestamp": 1762227483065,
-      "currentSyncTimestamp": 1762227690402
+      "lastDataChangeTimestamp": 1762227690402,
+      "currentSyncTimestamp": 1762240113552
     },
     "stats": {
       "bookmarksCount": 259,
       "tagsCount": 13,
-      "totalTagsCount": 295,
+      "totalTagsCount": 296,
       "domainsCount": 11
     },
-    "updated": 1762227690405,
+    "updated": 1762240113554,
     "created": 1758525915243
   }
 }
