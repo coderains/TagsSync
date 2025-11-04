@@ -1,5 +1,16 @@
 {
   "data": {
+    "https://myanimelist.net/": {
+      "tags": [
+        "收藏"
+      ],
+      "meta": {
+        "title": "myanimelist.net",
+        "updated": 1762227374123,
+        "updated3": 1762227483065,
+        "created": 1762227374123
+      }
+    },
     "https://coomer.st/": {
       "tags": [
         "收藏"
@@ -3238,19 +3249,19 @@
       "browser": "Edge 141.0",
       "os": "Windows",
       "deviceType": "desktop",
-      "uploadTimestamp": 1762227183343,
+      "uploadTimestamp": 1762227483068,
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0",
       "origin": "https://utags.link",
-      "lastDataChangeTimestamp": 1762226942931,
-      "currentSyncTimestamp": 1762227183339
+      "lastDataChangeTimestamp": 1762227183339,
+      "currentSyncTimestamp": 1762227483065
     },
     "stats": {
-      "bookmarksCount": 256,
+      "bookmarksCount": 257,
       "tagsCount": 13,
-      "totalTagsCount": 292,
-      "domainsCount": 8
+      "totalTagsCount": 293,
+      "domainsCount": 9
     },
-    "updated": 1762227183343,
+    "updated": 1762227483068,
     "created": 1758525915243
   }
 }
