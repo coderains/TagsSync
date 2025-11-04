@@ -1,5 +1,16 @@
 {
   "data": {
+    "https://coomer.st/": {
+      "tags": [
+        "收藏"
+      ],
+      "meta": {
+        "title": "coomer.st",
+        "updated": 1762227041537,
+        "updated3": 1762227183339,
+        "created": 1762227041537
+      }
+    },
     "https://kater.me/": {
       "tags": [
         "收藏"
@@ -3227,19 +3238,19 @@
       "browser": "Edge 141.0",
       "os": "Windows",
       "deviceType": "desktop",
-      "uploadTimestamp": 1762226942942,
+      "uploadTimestamp": 1762227183343,
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0",
       "origin": "https://utags.link",
-      "lastDataChangeTimestamp": 1762226664819,
-      "currentSyncTimestamp": 1762226942931
+      "lastDataChangeTimestamp": 1762226942931,
+      "currentSyncTimestamp": 1762227183339
     },
     "stats": {
-      "bookmarksCount": 255,
+      "bookmarksCount": 256,
       "tagsCount": 13,
-      "totalTagsCount": 291,
-      "domainsCount": 7
+      "totalTagsCount": 292,
+      "domainsCount": 8
     },
-    "updated": 1762226942942,
+    "updated": 1762227183343,
     "created": 1758525915243
   }
 }
